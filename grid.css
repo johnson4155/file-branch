@@ -1,0 +1,143 @@
+*{
+
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.p{
+
+    background-image: url("pexels-isabella-mendes-341013.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color:springgreen;
+    width: 100%;
+    height: 400px;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+h1{
+
+    color: darkorange;
+}
+
+body{
+
+    background-image: url("pexels-venu-gopal-1108813.jpg");
+    background-size: cover;
+   
+}
+
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0auto;
+    padding: 0px;
+    display: block;
+    overflow: hidden;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    
+  }
+  li{
+      display: inline-block;
+  }
+ .search {
+     padding-left: 30px;
+     background-color: black;
+     margin: 0 auto;
+
+ }
+.container {
+
+    display: grid;
+    width: 100%;
+    height:auto;
+    flex-wrap: wrap;
+    color:fuchsia;
+}
+.politics img {
+    float: top;
+
+    
+}
+.politics {
+    height: 400px;
+    
+
+    color: blue;
+}
+.img{
+
+    text-align: center;
+}
+.politic {
+    text-align: center;
+}
+.imgcontainer {
+    text-align: center;
+
+}
+.img {
+    border-radius: 50%;
+}
+
+input[type=text], input[type=password] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+   display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  .cancelbtn {
+    width: 70%;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  
+  .container {
+   
+     display: flex;
+    justify-content: center;
+
+  }
+  
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  .forming {
+      width: 800px;
+      margin: 0 auto;
+      height: 500px;
+  }
+ 
